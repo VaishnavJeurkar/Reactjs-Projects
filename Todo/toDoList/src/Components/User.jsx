@@ -8,7 +8,7 @@ export default function User() {
       </div>
       <div className="info">
         <p><em>VAISHNAV</em></p>
-        <a href="#">Logout!</a>
+        <a href="#">Logout🏃‍♂️</a>
       </div>
     </div>
   )
